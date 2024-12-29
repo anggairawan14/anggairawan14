@@ -10,7 +10,7 @@
 ## My Skills
 
 ### Programming Languages
-![Language 1](https://img.shields.io/badge/-Language1-000?&logo=Language1&logoColor=fff)
+![Language 1](https://img.shields.io/badge/-Python-000?&logo=Language1&logoColor=fff)
 ![Language 2](https://img.shields.io/badge/-Language2-000?&logo=Language2&logoColor=fff)
 ![Language 3](https://img.shields.io/badge/-Language3-000?&logo=Language3&logoColor=fff)
 
